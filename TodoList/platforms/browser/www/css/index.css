@@ -1,7 +1,7 @@
 /* Basic Style */
 body {
-    background: #fff;
-    color: #333;
+    background: #FFF;
+    color: #1F41FF;
     font-family: Lato, sans-serif;
   }
   .container {
@@ -34,12 +34,12 @@ body {
     cursor: pointer;
   }
   button:hover {
-    color: #333;
+    color: #1F41FF;
   }
   /* Heading */
   h3,
   label[for='new-task'] {
-    color: #333;
+    color: #1F41FF;
     font-weight: 700;
     font-size: 15px;
     border-bottom: 2px solid #333;
@@ -60,7 +60,7 @@ body {
     color: #888;
   }
   input[type="text"]:focus {
-    color: #333;
+    color: #1F41FF;
   }
   
   /* New Task */
